@@ -1,0 +1,94 @@
+
+
+
+.firstimg{
+	padding-left: 100px;
+	max-width:100%;
+	padding-top: 50px;
+	size: 100px;
+	width: 100%;
+	margin: 0 auto;
+}
+.firstimg img{
+	width: 100%;
+}
+
+
+.section2{
+	margin: 50px;
+	background-color: #FFFFFF;
+	
+	width: 300px;
+	margin-top: 50pxpx;
+	border-top: 0;
+    display: inline-block;
+    box-shadow: 0px 3px 6px #00000029;
+
+}
+.textsize{
+	text-align: right;
+    padding: 10px;
+}
+.section2img
+{   width: 300px;
+	box-sizing: border-box;
+}
+p{
+	margin: 150px;
+	margin-bottom: 0;
+	color: #707070;
+}
+.p2{
+	text-align: center;
+	color: #707070;
+	margin: 50px;
+    font: normal normal 100 30px/40px Archy EDT;
+}
+.p3{
+	color:#707070 ;
+    text-align: left ;
+    font: normal normal 100 40px/53px Archy EDT;
+
+}
+
+
+footer{
+	text-align: right;
+	pedding-right: 20px;
+}
+.ph{
+	text-align: right;
+	word-spacing: 20px;
+}
+.footer{
+	background:#2E2E2E ;
+	height: 150px ;
+	margin-top: 50px;
+    max-width: 100%;
+	
+}
+.p4{
+	text-align: left;
+	padding-top: 70px;
+
+
+}
+.fblogo{
+	padding-left: 245px;
+}
+.iglogo{
+	padding-left: 20px;
+}
+h2{
+    padding-left: 10px;
+}
+div{padding-left: 10px;
+}
+div{
+    font: normal normal normal 18px/24px Zapf Dingbats;
+}
+.locaton{
+    text-align: right;
+	padding-top: 70px;
+    width: 100;
+}
